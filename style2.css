@@ -1,0 +1,37 @@
+body{
+    background-color: peru;
+}
+h1{
+    text-align: center;
+    letter-spacing: 20px;
+}
+h2{
+    /* border */
+    background-color:  darkred;
+    color: whitesmoke;
+    border-right: 5px rgba(172, 255, 47, 0.644)groove;
+    border-bottom: 5px green groove;
+    border-left: 5px rgb(0, 17, 255) groove;
+    border-top: 5px blue double;
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 300px;
+
+    padding-top: 30px;
+    padding-bottom: 95px;
+    padding-right: 20px ;
+    padding-left: 45px;
+
+    font-size: 16px;
+}
+a{
+    background-color: darkred;
+    color: aliceblue;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+

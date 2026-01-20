@@ -1,0 +1,38 @@
+body{
+    background-color: hsl(0, 0%, 88%);
+}
+#p1{
+    color: darksalmon;
+    background-color: rgb(168, 183, 187);
+    font-size: 26px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+#p2{
+    color: rgb(141, 141, 175);
+    font-size: 20px;
+    background-color: seagreen;
+}
+#p3{
+    text-align: justify;
+    font-size: 23px;
+    color: indianred;
+    background-color: royalblue;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+
+
+.myparagraph{
+    color: crimson;
+    background-color: chartreuse;
+    padding-bottom: 15px;
+    font-size: 19px;
+}
+
+.mydiv{
+    color: indianred;
+    background-color: royalblue;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
